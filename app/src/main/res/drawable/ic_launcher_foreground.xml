@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Pinboard: tall tile left, two stacked tiles right -->
+    <path android:fillColor="#FFFFFF" android:pathData="M36,34h14a3,3 0,0 1,3 3v34a3,3 0,0 1,-3 3h-14a3,3 0,0 1,-3 -3v-34a3,3 0,0 1,3 -3z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M60,34h12a3,3 0,0 1,3 3v12a3,3 0,0 1,-3 3h-12a3,3 0,0 1,-3 -3v-12a3,3 0,0 1,3 -3z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M60,56h12a3,3 0,0 1,3 3v12a3,3 0,0 1,-3 3h-12a3,3 0,0 1,-3 -3v-12a3,3 0,0 1,3 -3z" />
+</vector>
